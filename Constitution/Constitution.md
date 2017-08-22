@@ -9,7 +9,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.01 Commissioners
 * Jason W, 2013 - Present
 * Tyler A, 2013 - Present
-
+* Chris F, 2017 - Present
 ### Section 1.02 Commissioner Term Length
 1. Until they retire, the Commissioners shall be Tyler A and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
 ### Section 1.03 Commissioner Appointment
@@ -18,7 +18,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. During the season, the Commissioners will be responsible to efficiently run the day-to-day operations of the League and will be required to interpret the appropriate course of action based on the terms outlined in the League Constitution and by Yahoo Fantasy Football. The Commissioners have autonomous rule over the league and may not be removed from office except through their own decision to retire.
 1. All decisions made by the Commissioners shall be final. The Commissioners may, at their discretion, appoint such committees as he sees fit to assist in the day-to-day operations of the league.
 1. The League is a Constitutional Monarchy, not a democracy. The Commissioners shall have such powers as are necessary to effectuate the effective operation of the League.  
-1. The Commissioners has the ability to make any necessary changes to this constitution prior to the draft of the current season.
+1. The Commissioners has the ability to make any necessary changes to this Constitution prior to the draft of the current season.
+1. Should circumstances, issues, or problems arise for which a remedy is not stated in the Constitution the Commissioner(s) reserves the right to take whatever actions he(they) deems necessary in the best interest of the league.
 ### Section 1.05 Current Members of League
 * Jason W
 * Tyler A
@@ -27,7 +28,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Chris F
 * Ryan G
 * Eric D
-* Kenny C
+* Remi D
 * Patrick U
 * Tyler B
 * Justin F
@@ -39,7 +40,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.07 General Rules of Behavior for Franchise Owners
 1. Always put the most competitive team you can on the field each and every week.
 1. Always respond to trade offers within 2 days. If you must reject a trade, please do so within two days (and preferably right away). The other owner may be looking to trade with somebody else if you decline them, so please don't leave them hanging. If you would like time to consider the offer, simply tell the other owner that you want to think it over, but then you are required to get back to them again quickly. If you find any trade to be unfair, bring it to the Commissioners before attacking the owners involved in the trade.
-1. Abide by all the rules set by the Commissioners, either in this constitution or in other forms of communication.
+1. Abide by all the rules set by the Commissioners, either in this Constitution or in other forms of communication.
 1. Don’t be a Taco.  
 1. You are expected to respond to all emails from the Commissioners. That same day or the next day if you need time to think about it, especially votes. Even if you have nothing to add, please just let him know that you received his email. You don't have to write a novel; just one sentence is fine.
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
@@ -98,20 +99,20 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Draft will always be Live and Offline. Draft time and location will vary and be set by the Commissioners. Each manager must be present to draft, Auto drafts will not be allowed. Remote drafts will be allowed on a case by case basis, approved by the Commissioners prior to the draft.
 1. If the draft host refuses to comport with his duties, or is found by league officials to be inept, then the draft party will become the responsibility of league officials and all decisions will be at their discretion.
 1. All managers in attendance must shotgun a beer or it’s equivalent as a group before the draft begins.
-### Section 3.02 Serpentine Draft
+### Section 3.02 Auction Draft
 1. Draft order will be determined by a preexisting order.
 1. The draft will continue until each team has every roster slot filled. At that point the draft is final and will be entered online.
+1. The draft budget will be $200.
 ###  Section 3.03 Redraft League
 1. This is not a keeper league.
 ### Section 3.04 Drafting Penalties
 1. If a manager name drops a player they must take a shot.
-1. If a manager tries to draft a player that is already drafted they must take a shot.
-1. If a manager runs out of time they must shotgun a beer before their next pick and are auto drafted the highest ADP player determined by the draft software. 
 
 ## Article IV. Transactions
 ### Section 4.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
-1. $0 bids on waivers is allowed.
+1. Minimum bid is $1.
+   1. Winning a bid with $0 will result in not being able to start a kicker the following week and the transaction is reversed.
 ### Section 4.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
@@ -131,13 +132,12 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 
 ## Article VI. Punishments
 ### Section 6.01 Current Punishment
-1. Belly button piercing until the next draft has occurred.
-1. Failure to produce said belly button piercing will result in a penalty of hosting a keg party.
-1. Failure to produce said belly button piercing a second time will result in banishment.
+1. TBD
 ### Section 6.02 Previous Punishments and Punishees
 1. Hot Naked Man Yoga - Jason W (2013)
 1. Body Buidling - Kris M (Banished)
 1. Stand Up Comedy - Jason W (2015)
+1. Belly Button Piercing - Nolan B (2016)
 ### Section 6.0.3 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
@@ -154,9 +154,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Removed the cap of 4 RBs per team. - Suggested by Justin F
 #### 2014 Amendments:
 * Added league fees of $150 - Suggested by Jason W
-* First Place payout changed from $420 to $1260 - Suggested by Jason W
-* Second Place payout changed from $50 to $150 - Suggested by Jason W
-* Highest Score of the Week changed from $10 to $30 - Suggested by Jason W
+* Added First Place payout changed from $420 to $1260 - Suggested by Jason W
+* Added Second Place payout changed from $50 to $150 - Suggested by Jason W
+* Added Highest Score of the Week changed from $10 to $30 - Suggested by Jason W
 * Added Gin and Juice Rule - Suggested by Tyler A
 * Added Current Punishment - Suggested by Tyler A
 * Added how to handle name dropping - Suggested by Tyler A
@@ -172,8 +172,12 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Removed beer equivalent for Drafting Penalties - Suggested by Tyler A
 * Added 2015 punishee - Suggested by Jason W
 * Added drinking rule clarifications - Suggested by Tyler A
-* Locking playoff teams - Suggested by Jason W
-* Keg buyout - Suggested by Chris F
-* Trade deadline after week 10 - Suggested by Jason W
-
-
+* Added Locking playoff teams - Suggested by Jason W
+* Added Keg buyout - Suggested by Chris F
+* Added Trade deadline after week 10 - Suggested by Jason W
+#### 2017 Amendments:
+* Added Remi D to the league - Suggested by Patrick U
+* Added Minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
+* Removed drafting penalties that do not apply to auction - Suggested by Jason W
+* Added best interest of the league clause - Suggested by Jason W
+* Added Chris F to Commissioners - Suggested by Tyler A
