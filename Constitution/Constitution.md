@@ -46,7 +46,10 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
 1. Trash talk is allowed. Don’t make it personal.
 1. If Ted Ginn, Jr. scores a touchdown, a Gin and Juice must be consumed.
+   1. Juice should be from a source of fruit like an Orange or Pineapple
+   1. A Gin Caesar is not a Gin and Juice
 1. If Jameis Winston scores a rushing touchdown, a shot of Jameson Irish Whiskey must be consumed.
+   1. The shot must be consumed on it's own and not mixed with anything else.
 1. Drinking specifications:
    1. The owner must provide proof of drinking to Commissioners.
    1. The drink must be consumed before midnight Tuesday.
@@ -177,7 +180,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Trade deadline after week 10 - Suggested by Jason W
 #### 2017 Amendments:
 * Added Remi D to the league - Suggested by Patrick U
-* Added Minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
+* Added minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
 * Removed drafting penalties that do not apply to auction - Suggested by Jason W
 * Added best interest of the league clause - Suggested by Jason W
 * Added Chris F to Commissioners - Suggested by Tyler A
+* Added specified drinking rules - Suggested by Eric D
