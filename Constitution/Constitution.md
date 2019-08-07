@@ -32,7 +32,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Patrick U
 * Tyler B
 * Justin F
-* Nolan B
+* Tyler A
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
