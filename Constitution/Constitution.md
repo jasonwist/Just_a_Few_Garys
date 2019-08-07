@@ -141,6 +141,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Body Buidling - Kris M (Banished)
 1. Stand Up Comedy - Jason W (2015)
 1. Belly Button Piercing - Nolan B (2016)
+1. Keg Buyout - Nolan B (2017)
+1. Key Buyout - Justin F (2018)
 ### Section 6.0.3 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
