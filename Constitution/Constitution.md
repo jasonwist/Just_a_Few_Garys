@@ -68,14 +68,14 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. No girls allowed.
 1. The scoring type is head to head.
 ### Section 2.02 Roster
-1. 10 Starting Positions
-1. 6 Bench
+1. 11 Starting Positions
+1. 5 Bench
 ### Section 2.03 Starting Positions
 1. 1 Quarterback (QB)
 1. 2 Running Backs (RB)
 1. 3 Wide Receivers (WR)
 1. 1 Tight End (TE)
-1. 1 Flex (RB/WR/TE)
+1. 2 Flex (RB/WR/TE)
 1. 1 Team Defense/Special Teams (D/ST)
 1. 1 Place Kicker (K)
 ### Section 2.04 Scoring System
@@ -185,3 +185,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added best interest of the league clause - Suggested by Jason W
 * Added Chris F to Commissioners - Suggested by Tyler A
 * Added specified drinking rules - Suggested by Eric D
+#### 2019 Amendments:
+* Changed Flex spots from 1 to 2 - Suggested by Poll Results
+* Changed Bench spots from 6 to 5 - Suggested by Poll Results
