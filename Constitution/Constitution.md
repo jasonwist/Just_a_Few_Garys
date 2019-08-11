@@ -11,7 +11,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Tyler A, 2013 - 2017
 * Chris F, 2017 - Present
 ### Section 1.02 Commissioner Term Length
-1. Until they retire, the Commissioners shall be Tyler A and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
+1. Until they retire, the Commissioners shall be Chris F and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
 ### Section 1.03 Commissioner Appointment
 1. In the event a Commissioner retires, he shall appoint a successor Commissioner (if they choose to do so), who shall inherit all powers set forth in the Constitution.
 ### Section 1.04 Commissioner Duties
