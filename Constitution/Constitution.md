@@ -115,7 +115,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 4.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
 1. Minimum bid is $1.
-   1. Winning a bid with $0 will result in not being able to start a kicker the following week and the transaction is reversed.
+   1. Winning a bid with $0 will result in not being able to start a kicker the next week your team has an active matchup and the transaction is reversed.
 ### Section 4.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
