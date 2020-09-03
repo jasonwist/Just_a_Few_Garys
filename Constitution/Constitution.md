@@ -193,8 +193,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Changed Flex spots from 1 to 2 - Suggested by Poll Results
 * Changed Bench spots from 6 to 5 - Suggested by Poll Results
 #### 2019 Amendments:
-* Reduced Flex spots from 1 to 2 - Suggested by Riv
-* Increased Bench spots from 6 to 5 - Suggested by Poll Results
+* Reduced Flex spots from 2 to 1 - Suggested by Riv
+* Increased Bench spots from 5 to 6 - Suggested by Poll Results
 * Added 2 IR sports for COVID & misuse punishments - Suggested by Poll Results
 * Removed minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
 
