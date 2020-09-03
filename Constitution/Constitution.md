@@ -68,14 +68,15 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. No girls allowed.
 1. The scoring type is head to head.
 ### Section 2.02 Roster
-1. 11 Starting Positions
-1. 5 Bench
+1. 10 Starting Positions
+1. 6 Bench
+1. 2 COVID IR
 ### Section 2.03 Starting Positions
 1. 1 Quarterback (QB)
 1. 2 Running Backs (RB)
 1. 3 Wide Receivers (WR)
 1. 1 Tight End (TE)
-1. 2 Flex (RB/WR/TE)
+1. 1 Flex (RB/WR/TE)
 1. 1 Team Defense/Special Teams (D/ST)
 1. 1 Place Kicker (K)
 ### Section 2.04 Scoring System
@@ -92,6 +93,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Seeding is based on regular season records and the subsequent tiebreakers outlined by Yahoo and this constitution and are generated automatically by your league service. Playoff seedings are not debatable.
 1. The top 6 seeds make the playoffs and are eligible for the Payout.
 1. Once a team is eliminated from either the cash prize or the punishment their team will be locked.
+### Section 2.08 COVID-19
+1. Due to the threat of COVID-19 we have introduced 2 IR spots for COVID designation only.
+1. Adding a player with the wrong designation will result in not being able to start a kicker the following week and the player will be removed from the IR spot.
 
 ## Article III. The Draft
 ### Section 3.01 Live Draft
@@ -114,8 +118,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ## Article IV. Transactions
 ### Section 4.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
-1. Minimum bid is $1.
-   1. Winning a bid with $0 will result in not being able to start a kicker the following week and the transaction is reversed.
 ### Section 4.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
@@ -190,3 +192,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 #### 2019 Amendments:
 * Changed Flex spots from 1 to 2 - Suggested by Poll Results
 * Changed Bench spots from 6 to 5 - Suggested by Poll Results
+#### 2019 Amendments:
+* Reduced Flex spots from 1 to 2 - Suggested by Riv
+* Increased Bench spots from 6 to 5 - Suggested by Poll Results
+* Added 2 IR sports for COVID & misuse punishments - Suggested by Poll Results
+* Removed minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
+
