@@ -51,9 +51,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. If Jameis Winston scores a rushing touchdown, a shot of Jameson Irish Whiskey must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
 1. If Tua Tagovailoa scores a rushing touchdown, a shot of or drink containing Kahlúa must be consumed.
-1. If Antonio Gibson scores a touchdown, a shot or drink containing whiskey must be consumed.
+1. If Antonio Gibson scores a touchdown, a shot of or drink containing whiskey must be consumed.
 1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
-1. If Mark Andrews scores a touchdown, a shot or drink containing bourbon must be consumed.
+1. If Mark Andrews scores a touchdown, a shot of or drink containing bourbon must be consumed.
 1. If Cam Newton scores a rushing touchdown, a drink containing Clamato must be consumed.
 1. Drinking specifications:
    1. The owner must provide proof of drinking to Commissioners.
