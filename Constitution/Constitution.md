@@ -50,6 +50,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. A Gin Caesar is not a Gin and Juice
 1. If Jameis Winston scores a rushing touchdown, a shot of Jameson Irish Whiskey must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
+1. If Tua Tagovailoa scores a rushing touchdown, a shot of or drink containing Kahlúa must be consumed.
+1. If Antonio Gibson scores a touchdown, a shot or drink containing whiskey must be consumed.
+1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
+1. If Mark Andrews scores a touchdown, a shot or drink containing bourbon must be consumed.
+1. If Cam Newton scores a rushing touchdown, a drink containing Clamato must be consumed.
 1. Drinking specifications:
    1. The owner must provide proof of drinking to Commissioners.
    1. The drink must be consumed before midnight Tuesday.
@@ -192,9 +197,13 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 #### 2019 Amendments:
 * Changed Flex spots from 1 to 2 - Suggested by Poll Results
 * Changed Bench spots from 6 to 5 - Suggested by Poll Results
-#### 2019 Amendments:
+#### 2020 Amendments:
 * Reduced Flex spots from 2 to 1 - Suggested by Riv
 * Increased Bench spots from 5 to 6 - Suggested by Poll Results
 * Added 2 IR sports for COVID & misuse punishments - Suggested by Poll Results
 * Removed minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
-
+* Added Kahlúa for Tua Tagovailoa - Suggested by Ryan G
+* Added Gibsons for Antonio Gibson - Suggested by Chris R
+* Added Shot Guns for Gardner Minshew II - Suggested by Ryan G
+* Added Makers Mark for Mark Andrews - Suggested by Chris B
+* Added Clam(ato) for Cam Newton - Suggested by Eric D
