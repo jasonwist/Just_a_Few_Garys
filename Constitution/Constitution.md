@@ -9,7 +9,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.01 Commissioners
 * Jason W, 2013 - Present
 * Tyler A, 2013 - 2017
-* Chris F, 2017 - Present
+* Chris F, 2017 - 2021
+* Chris R, 2021 - Present
 ### Section 1.02 Commissioner Term Length
 1. Until they retire, the Commissioners shall be Chris F and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
 ### Section 1.03 Commissioner Appointment
@@ -31,8 +32,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Remi D
 * Patrick U
 * Tyler B
-* Justin F
-* Tyler A
+* Riley A
+* Cory E
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
@@ -45,9 +46,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. You are expected to respond to all emails from the Commissioners. That same day or the next day if you need time to think about it, especially votes. Even if you have nothing to add, please just let him know that you received his email. You don't have to write a novel; just one sentence is fine.
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
 1. Trash talk is allowed. Don’t make it personal.
-1. If Ted Ginn, Jr. scores a touchdown, a Gin and Juice must be consumed.
-   1. Juice should be from a source of fruit like an Orange or Pineapple
-   1. A Gin Caesar is not a Gin and Juice
+### Section 1.08 Drinking Rules
 1. If Jameis Winston scores a rushing touchdown, a shot of Jameson Irish Whiskey must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
 1. If Tua Tagovailoa scores a rushing touchdown, a shot of or drink containing Kahlúa must be consumed.
@@ -60,9 +59,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. The drink must be consumed before midnight Tuesday.
    1. Failure to do so will result in not being able to start a kicker the following week.
    1. Extra time will be given on a case by case basis decided by the Commissioners.
-### Section 1.08 tl;dr 
+### Section 1.09 tl;dr 
 1. Don’t be a dink.
-### Section 1.09 Rules For Rule Breakers
+### Section 1.10 Rules For Rule Breakers
 1. Any owner who has not paid by the end of Week 1 their team will be locked. If they have still not paid before the start of Week 2 they will be banished.
 1. Any owners guilty of collusion shall immediately be banished from the league.  The Commissioners shall have final say as to whether or not collusion has taken place, and at their discretion, may conduct a league vote concerning the allegations of collusion, but the Commissioners’ votes shall be overriding and conclusive with regard to whether an owner shall be banished or not.  The colluding owner(s) shall not receive any refund of league fees.
 1. Any player that consistently breaks Section 1.07 will be banished from the league, at the Commissioner's’ discretion. If you are removed from a season that you have paid for, you will not be refunded your money and your team will be replaced at the Commissioner’s discretion. In any event, in almost all cases, you will not be able to participate in future seasons.
@@ -90,14 +89,15 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The season schedule will be generated automatically by our league service but is subject to change by the Commissioners prior to the regular season.
 1. All franchises are responsible to make sure their lineups are updated before kickoff of the first game of the week. No exceptions will be made.
 1. In the event of a situation where a manager cannot change a lineup prior to the start of a given week’s games, a franchise owner must contact a Commissioner prior to kickoff of the first game and inform of him of the situation and the subsequent lineup change(s). If the Commissioner receives the lineup change(s) in a timely manner, the change(s) will be made. The Commissioner must then post notification of the manual lineup change(s) on the message board and/or contact the opposing franchise owner via phone/email/text/Facebook within one hour of the start of the first game of said week.
-1. The regular season will end after the completion of week 13.
+1. The regular season will end after the completion of week 14.
 ### Section 2.06 Tie Breakers
 1. Ties will be handled by Yahoo settings.
 ### Section 2.07 Playoffs
-1. The three-round playoffs will take place during weeks 14, 15 and 16 determined by Yahoo format.
+1. The three-round playoffs will take place during weeks 15, 16 and 17 determined by Yahoo format.
 1. Seeding is based on regular season records and the subsequent tiebreakers outlined by Yahoo and this constitution and are generated automatically by your league service. Playoff seedings are not debatable.
 1. The top 6 seeds make the playoffs and are eligible for the Payout.
 1. Once a team is eliminated from either the cash prize or the punishment their team will be locked.
+1. Playoffs are not reseeded.
 ### Section 2.08 COVID-19
 1. Due to the threat of COVID-19 we have introduced 2 IR spots for COVID designation only.
 1. Adding a player with the wrong designation will result in not being able to start a kicker the following week and the player will be removed from the IR spot.
@@ -126,7 +126,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 4.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
-1. The trade deadline is before the Sunday games of Week 11. 
+1. The trade deadline is before the Sunday games of Week 12. 
 
 ## Article V. Finances
 ### Section 5.01 League Fee
@@ -134,11 +134,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Failure to play league fees will result in league banishment.
 1. First place will use their winnings to add their name to the trophy.
 ### Section 5.02 Payout
-1. 1st Place = $ 1260
+1. King's Ransom (1st Place) = $ 1230
 1. 2nd Place = $150
 1. Highest Score for the Week = $30
-1. From Week 1 through 13 whoever has the highest score will be awarded $30.
-   1. In the event of a tie the payment will be carried over, unless it occurs on Week 13, then the payment will be split. 
+1. From Weeks 1 through 14 whoever has the highest score will be awarded $30.
+   1. In the event of a tie the payment will be carried over, unless it occurs on Week 14, then the payment will be split. 
 
 ## Article VI. Punishments
 ### Section 6.01 Current Punishment
@@ -198,7 +198,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Changed Flex spots from 1 to 2 - Suggested by Poll Results
 * Changed Bench spots from 6 to 5 - Suggested by Poll Results
 #### 2020 Amendments:
-* Reduced Flex spots from 2 to 1 - Suggested by Riv
+* Reduced Flex spots from 2 to 1 - Suggested by Chris R
 * Increased Bench spots from 5 to 6 - Suggested by Poll Results
 * Added 2 IR sports for COVID & misuse punishments - Suggested by Poll Results
 * Removed minimum $1 bid on waivers & waivers punishment - Suggested by Tyler A
@@ -207,3 +207,17 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Shot Guns for Gardner Minshew II - Suggested by Ryan G
 * Added Makers Mark for Mark Andrews - Suggested by Chris B
 * Added Clam(ato) for Cam Newton - Suggested by Eric D
+#### 2020 Amendments:
+* Removed Tyler A - Suggested by Tyler A
+* Removed Justin F - Suggested by Justin F
+* Added Cory E - Suggested by Eric D
+* Added Riley A - Suggested by Chris B
+* Increased Regular Season length by 1 week - Suggested by Jason W
+* Moved Playoffs to Weeks 15, 16, 17 - Suggested by Jason W
+* Removed Ted Ginn Jr. drinking rule - Suggested by Jason W
+* Reduced 1st place payout to compensate for extra Regular Season payouts - Suggested by Jason W
+* Renamed 1st place payout to King's Ranson - Suggested by Jason W
+* Added clarification on playoff reseeding existing - Suggested by Poll Results
+* Created Drinking Rules Section 1.08 & renamed effected Sections 1.08, 1.09 to 1.09, 1.10 respectively. - Suggested by Jason W
+* Moved Trade Deadline to Week 12. - Suggested by Jason W
+
