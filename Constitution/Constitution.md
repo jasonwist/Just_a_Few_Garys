@@ -101,6 +101,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 2.08 COVID-19
 1. Due to the threat of COVID-19 we have introduced 2 IR spots for COVID designation only.
 1. Adding a player with the wrong designation will result in not being able to start a kicker the following week and the player will be removed from the IR spot.
+1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion.  This does not cover if a player misses a game because of COVID.  That will be treated as any other last minute injury.
 
 ## Article III. The Draft
 ### Section 3.01 Live Draft
@@ -222,4 +223,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Moved Trade Deadline to Week 12. - Suggested by Jason W
 * Added Randomize Schedule - Suggested by Poll Results
 * Modified Section 1.06 3. to set best available line up instead of award everyone wins. - Suggested by Chris F
+* Added to Section 2.08 COVID-19 for the ability to sub in players if a game gets canceled - Suggested by Chris F
 
