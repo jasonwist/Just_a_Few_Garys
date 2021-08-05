@@ -64,7 +64,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.10 Rules For Rule Breakers
 1. Any owner who has not paid by the end of Week 1 their team will be locked. If they have still not paid before the start of Week 2 they will be banished.
 1. Any owners guilty of collusion shall immediately be banished from the league.  The Commissioners shall have final say as to whether or not collusion has taken place, and at their discretion, may conduct a league vote concerning the allegations of collusion, but the Commissioners’ votes shall be overriding and conclusive with regard to whether an owner shall be banished or not.  The colluding owner(s) shall not receive any refund of league fees.
-1. Any player that consistently breaks Section 1.07 will be banished from the league, at the Commissioner's’ discretion. If you are removed from a season that you have paid for, you will not be refunded your money and your team will be replaced at the Commissioner’s discretion. In any event, in almost all cases, you will not be able to participate in future seasons.
+1. Any player that consistently breaks Section 1.07 will be banished from the league, at the Commissioners’ discretion. If you are removed from a season that you have paid for, you will not be refunded your money and your team will be replaced at the Commissioner’s discretion. In any event, in almost all cases, you will not be able to participate in future seasons.
 
 ## Article II. League Structure (Rosters, Scoring, Scheduling)
 ### Section 2.01 League Structure
@@ -157,7 +157,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 
 ## Article VII. Amendments to the Constitution
 ### Section 7.01 Alterations and Additions
-1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deems the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
+1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deem the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
 1. All amendments proposed during the season will be reviewed at the end of the current season and not be made applicable to the current season.
 1. All amendments to the League constitution will be named according to the league member who caused or identified the problem.
 
