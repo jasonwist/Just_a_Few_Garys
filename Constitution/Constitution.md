@@ -226,4 +226,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Randomize Schedule - Suggested by Poll Results
 * Modified Section 1.06 3. to set best available line up instead of award everyone wins. - Suggested by Chris F
 * Added to Section 2.08 COVID-19 for the ability to sub in players if a game gets canceled - Suggested by Chris F
+* Updated Keg buyouts and punishments - Suggested by Jason W
 
