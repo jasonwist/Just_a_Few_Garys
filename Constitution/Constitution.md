@@ -103,8 +103,40 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Adding a player with the wrong designation will result in not being able to start a kicker the following week and the player will be removed from the IR spot.
 1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion. The declaration must be made before either player has had their game. This does not cover if a player misses a game because of COVID.  COVID will be treated as any other last minute injury.
 
-## Article III. The Draft
-### Section 3.01 Live Draft
+## Article III. Gary Olympics
+### Section 3.01 Event
+1. The Olympics will be held before or same day as the draft.  As it no longer impacts the draft itself it may be held later that day.
+1. Participation is encouraced.  You get what you put in.
+1. Tie breakers will be decided by coin flip.
+1. Events and brackets are subject to change.
+### Section 3.02 Events
+1. The events for 2021 are:
+   1. Punt Pass Kick
+   1. 40 Yard Dash
+   1. 2 Cone
+   1. 3 Cone
+   1. Beer Darts
+   1. Flip Cup
+   1. Beer Pong
+   1. Wonderlic
+### Section 3.02 Rewards
+1. The reward is extra FAAB money:
+   1. $20
+   1. $15
+   1. $10
+   1. $9
+   1. $8
+   1. $7
+   1. $6
+   1. $5
+   1. $4
+   1. $3
+   1. $2
+   1. $1
+1. If you do not participate at all you get $0.
+
+## Article IV. The Draft
+### Section 4.01 Live Draft
 1. Each offseason the draft will be planned by a designated draft host with the assistance of league officials.
 1. The draft will be held at a predetermined destination suitable for a great party.
 1. The draft date and time will be determined by the draft host and league officials on a convenient day and time for the entire league.
@@ -112,39 +144,39 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Draft will always be Live and Offline. Draft time and location will vary and be set by the Commissioners. Each manager must be present to draft, Auto drafts will not be allowed. Remote drafts will be allowed on a case by case basis, approved by the Commissioners prior to the draft.
 1. If the draft host refuses to comport with his duties, or is found by league officials to be inept, then the draft party will become the responsibility of league officials and all decisions will be at their discretion.
 1. All managers in attendance must shotgun a beer or it’s equivalent as a group before the draft begins.
-### Section 3.02 Auction Draft
+### Section 4.02 Auction Draft
 1. Draft order will be determined by a preexisting order.
 1. The draft will continue until each team has every roster slot filled. At that point the draft is final and will be entered online.
 1. The draft budget will be $200.
-###  Section 3.03 Redraft League
+###  Section 4.03 Redraft League
 1. This is not a keeper league.
-### Section 3.04 Drafting Penalties
+### Section 4.04 Drafting Penalties
 1. If a manager name drops a player they must take a shot.
 
-## Article IV. Transactions
-### Section 4.01 Waivers and Free Agents
+## Article V. Transactions
+### Section 5.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
-### Section 4.02 Trades
+### Section 5.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
 1. The trade deadline is before the Sunday games of Week 12. 
 
-## Article V. Finances
-### Section 5.01 League Fee
+## Article VI. Finances
+### Section 6.01 League Fee
 1. A league fee of $150 is due on or before the draft begins, unless other prior arrangements have been made with the Commissioners.
 1. Failure to play league fees will result in league banishment.
 1. First place will use their winnings to add their name to the trophy.
-### Section 5.02 Payout
+### Section 6.02 Payout
 1. King's Ransom (1st Place) = $ 1230
 1. 2nd Place = $150
 1. Highest Score for the Week = $30
 1. From Weeks 1 through 14 whoever has the highest score will be awarded $30.
    1. In the event of a tie the payment will be carried over, unless it occurs on Week 14, then the payment will be split. 
 
-## Article VI. Punishments
-### Section 6.01 Current Punishment
+## Article VII. Punishments
+### Section 7.01 Current Punishment
 1. At this time we are doing keg buyouts instead of punishments.
-### Section 6.02 Previous Punishments and Punishees
+### Section 7.02 Previous Punishments and Punishees
 1. 2013 - Hot Naked Man Yoga - Completed - Jason W
 1. 2014 - Body Buidling - Did not complete - Kris M - Banished
 1. 2015 - Stand Up Comedy - Completed - Jason W
@@ -153,13 +185,13 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. 2018 - Keg Buyout - Justin F
 1. 2019 - Keg Buyout - Justin F
 1. 2020 - Keg Buyout - Eric D
-### Section 6.0.3 Punishment Buyout
+### Section 7.03 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
 1. The loser must host said keg at a party within reasonable distance of Regina.
 
-## Article VII. Amendments to the Constitution
-### Section 7.01 Alterations and Additions
+## Article VIII. Amendments to the Constitution
+### Section 8.01 Alterations and Additions
 1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deem the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
 1. All amendments proposed during the season will be reviewed at the end of the current season and not be made applicable to the current season.
 1. All amendments to the League constitution will be named according to the league member who caused or identified the problem.
@@ -227,4 +259,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Modified Section 1.06 3. to set best available line up instead of award everyone wins. - Suggested by Chris F
 * Added to Section 2.08 COVID-19 for the ability to sub in players if a game gets canceled - Suggested by Chris F
 * Updated Keg buyouts and punishments - Suggested by Jason W
+* Added a Gary Olympics section - Suggested by Jason W
 
