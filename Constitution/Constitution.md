@@ -37,7 +37,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
-1. Banishments will be issued as a result of franchise negligence, failure to pay league fees in a timely manner, collusion and/or for reasons currently beyond comprehension but for which, at said time, the Commissioners deems banning appropriate. If a team is banished during the season, any team that has or will play that team will be awarded a win versus said team.
+1. Banishments will be issued as a result of franchise negligence, failure to pay league fees in a timely manner, collusion and/or for reasons currently beyond comprehension but for which, at said time, the Commissioners deems banning appropriate. If an owner is banished during the season, going forward their team will be managed by the Commissioners and the team's starters will be determined by yahoo projections each week.
 ### Section 1.07 General Rules of Behavior for Franchise Owners
 1. Always put the most competitive team you can on the field each and every week.
 1. Always respond to trade offers within 2 days. If you must reject a trade, please do so within two days (and preferably right away). The other owner may be looking to trade with somebody else if you decline them, so please don't leave them hanging. If you would like time to consider the offer, simply tell the other owner that you want to think it over, but then you are required to get back to them again quickly. If you find any trade to be unfair, bring it to the Commissioners before attacking the owners involved in the trade.
@@ -173,7 +173,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Current Punishment - Suggested by Tyler A
 * Added how to handle name dropping - Suggested by Tyler A
 * Added how to handle going over the time limit - Suggested by Tyler A
-* Added how to handle drafting a player that has already been drafted - Suggested by Tyler
+* Added how to handle drafting a player that has already been drafted - Suggested by Tyler A
 #### 2015 Amendments:
 * Added Tyler B to the league - Suggested by Jason W
 * Removed Kris M from the league - Suggested by Jason W
@@ -220,4 +220,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added clarification on playoff reseeding existing - Suggested by Poll Results
 * Created Drinking Rules Section 1.08 & renamed effected Sections 1.08, 1.09 to 1.09, 1.10 respectively. - Suggested by Jason W
 * Moved Trade Deadline to Week 12. - Suggested by Jason W
+* Added Randomize Schedule - Suggested by Poll Results
+* Modified Section 1.06 3. to set best available line up instead of award everyone wins. - Suggested by Chris F
 
