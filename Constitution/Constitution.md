@@ -143,14 +143,16 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 
 ## Article VI. Punishments
 ### Section 6.01 Current Punishment
-1. TBD
+1. At this time we are doing keg buyouts instead of punishments.
 ### Section 6.02 Previous Punishments and Punishees
-1. Hot Naked Man Yoga - Jason W (2013)
-1. Body Buidling - Kris M (Banished)
-1. Stand Up Comedy - Jason W (2015)
-1. Belly Button Piercing - Nolan B (2016)
-1. Keg Buyout - Nolan B (2017)
-1. Key Buyout - Justin F (2018)
+1. 2013 - Hot Naked Man Yoga - Completed - Jason W
+1. 2014 - Body Buidling - Did not complete - Kris M - Banished
+1. 2015 - Stand Up Comedy - Completed - Jason W
+1. 2016 - Belly Button Piercing - Keg Buyout - Nolan B
+1. 2017 - Keg Buyout - Nolan B
+1. 2018 - Keg Buyout - Justin F
+1. 2019 - Keg Buyout - Justin F
+1. 2020 - Keg Buyout - Eric D
 ### Section 6.0.3 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
