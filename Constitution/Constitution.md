@@ -189,6 +189,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
 1. The loser must host said keg at a party within reasonable distance of Regina.
+1. The loser must be a Beer Wench and fetch beer for King Gary.
 
 ## Article VIII. Amendments to the Constitution
 ### Section 8.01 Alterations and Additions
@@ -260,4 +261,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added to Section 2.08 COVID-19 for the ability to sub in players if a game gets canceled - Suggested by Chris F
 * Updated Keg buyouts and punishments - Suggested by Jason W
 * Added a Gary Olympics section - Suggested by Jason W
+* Added Beer Wench clarification - Suggested by Eric D
 
