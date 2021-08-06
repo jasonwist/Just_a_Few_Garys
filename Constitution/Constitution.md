@@ -86,7 +86,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 2.04 Scoring System
 1. Scoring will be decided by the Commissioners prior to draft day and will be posted on the League Settings page. Any suggestions to the Rules and scoring can be brought up at the draft and voted on by the league. Commissioners do have the power to overrule, but they (Commissioners) must vote unanimously. 
 ### Section 2.05 Regular Season
-1. The season schedule will be generated automatically by our league service but is subject to change by the Commissioners prior to the regular season.
+1. The season schedule will be generated automatically by our league service but is subject to change by the Commissioners prior to the regular season.  It will then be randomized using the 'Shuffle Entire Schedule' feature.
 1. All franchises are responsible to make sure their lineups are updated before kickoff of the first game of the week. No exceptions will be made.
 1. In the event of a situation where a manager cannot change a lineup prior to the start of a given week’s games, a franchise owner must contact a Commissioner prior to kickoff of the first game and inform of him of the situation and the subsequent lineup change(s). If the Commissioner receives the lineup change(s) in a timely manner, the change(s) will be made. The Commissioner must then post notification of the manual lineup change(s) on the message board and/or contact the opposing franchise owner via phone/email/text/Facebook within one hour of the start of the first game of said week.
 1. The regular season will end after the completion of week 14.
