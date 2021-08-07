@@ -90,8 +90,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. Recoptions - 0.5 Points
    1. Field Goals 40-49 Yards - 4 Points
    1. Field Goals 50+ Yards - 5 Points
-   1. Fieled Goals Missed Any - -1 Points
-   1. Points After Attempt Missed - -1 Points
+   1. Fieled Goals Missed Any - (-1) Points
+   1. Points After Attempt Missed - (-1) Points
    1. 4th Down Stops - 2 Points
    1. Three and Outs Forced - 0.25 Points
 ### Section 2.05 Regular Season
