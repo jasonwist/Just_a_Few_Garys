@@ -85,6 +85,15 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. 1 Place Kicker (K)
 ### Section 2.04 Scoring System
 1. Scoring will be decided by the Commissioners prior to draft day and will be posted on the League Settings page. Any suggestions to the Rules and scoring can be brought up at the draft and voted on by the league. Commissioners do have the power to overrule, but they (Commissioners) must vote unanimously. 
+1. Current Scoring Modifications from :
+   1. Passing Touchdowns - 6 Points
+   1. Recoptions - 0.5 Points
+   1. Field Goals 40-49 Yards - 4 Points
+   1. Field Goals 50+ Yards - 5 Points
+   1. Fieled Goals Missed Any - -1 Points
+   1. Points After Attempt Missed - -1 Points
+   1. 4th Down Stops - 2 Points
+   1. Three and Outs Forced - 0.25 Points
 ### Section 2.05 Regular Season
 1. The season schedule will be generated automatically by our league service but is subject to change by the Commissioners prior to the regular season.  It will then be randomized using the 'Shuffle Entire Schedule' feature.
 1. All franchises are responsible to make sure their lineups are updated before kickoff of the first game of the week. No exceptions will be made.
@@ -262,4 +271,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Updated Keg buyouts and punishments - Suggested by Jason W
 * Added a Gary Olympics section - Suggested by Jason W
 * Added Beer Wench clarification - Suggested by Eric D
+* Added 6 Points per Passing TD - Suggested by Jason W
+* Added Scoring Modifications section - Suggested by Jason W
 
