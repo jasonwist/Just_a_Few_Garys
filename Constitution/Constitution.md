@@ -54,6 +54,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
 1. If Mark Andrews scores a touchdown, a shot of or drink containing bourbon must be consumed.
 1. If Cam Newton scores a rushing touchdown, a drink containing Clamato must be consumed.
+1. If Ryan Fitzpatrick scores a rushing touchdown, a short of Fireball Cinnamon Whiskey must be consumed.
 1. Drinking specifications:
    1. The owner must provide proof of drinking to Commissioners.
    1. The drink must be consumed before midnight Tuesday.
@@ -206,7 +207,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. All amendments proposed during the season will be reviewed at the end of the current season and not be made applicable to the current season.
 1. All amendments to the League constitution will be named according to the league member who caused or identified the problem.
 
-
 #### 2013 Amendments:
 * Removed the cap of 4 RBs per team. - Suggested by Justin F
 #### 2014 Amendments:
@@ -273,4 +273,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Beer Wench clarification - Suggested by Eric D
 * Added 6 Points per Passing TD - Suggested by Jason W
 * Added Scoring Modifications section - Suggested by Jason W
+* Added Ryan Fitzpatrick drinking rule - Suggested by Ryan George
 
