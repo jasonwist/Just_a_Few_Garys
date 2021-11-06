@@ -56,10 +56,10 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. If Cam Newton scores a rushing touchdown, a drink containing Clamato must be consumed.
 1. If Ryan Fitzpatrick scores a rushing touchdown, a short of Fireball Cinnamon Whiskey must be consumed.
 1. Drinking specifications:
-   1. The owner must provide proof of drinking to Commissioners.
    1. The drink must be consumed before midnight Tuesday.
-   1. Failure to do so will result in not being able to start a kicker the following week.
-   1. Extra time will be given on a case by case basis decided by the Commissioners.
+   2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
+   3. Failure to do so will result in not being able to start a kicker the following week.
+   4. Extra time will be given on a case by case basis decided by the Commissioners.
 ### Section 1.09 tl;dr 
 1. Don’t be a dink.
 ### Section 1.10 Rules For Rule Breakers
