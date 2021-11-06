@@ -252,7 +252,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Shot Guns for Gardner Minshew II - Suggested by Ryan G
 * Added Makers Mark for Mark Andrews - Suggested by Chris B
 * Added Clam(ato) for Cam Newton - Suggested by Eric D
-#### 2020 Amendments:
+#### 2021 Amendments:
 * Removed Tyler A - Suggested by Tyler A
 * Removed Justin F - Suggested by Justin F
 * Added Cory E - Suggested by Eric D
@@ -274,4 +274,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added 6 Points per Passing TD - Suggested by Jason W
 * Added Scoring Modifications section - Suggested by Jason W
 * Added Ryan Fitzpatrick drinking rule - Suggested by Ryan George
+* Added specification to drinking rule - Suggested by Patrick U
 
