@@ -121,7 +121,10 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. 40 Yard Dash
    1. 2 Cone
    1. 3 Cone
+   1. Food Challenge
+   1. Flip Cup
    1. Beer Darts
+   1. Beer Pong
    1. Wonderlic
 ### Section 3.03 Rewards
 1. The reward is extra FAAB money:
@@ -278,4 +281,3 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Removed Section 1.08 Cam Newton drinking rule - Suggested by Jason W
 * Removed Section 1.08 Ryan Fitzpatrick drinking rule - Suggested by Jason W
 * Modified Section 2.08 to remove COVID IR spots and wrong designation punishment. - Suggested by Jason W
-* Modified Section 3.02 Events - Suggested by Jason W
