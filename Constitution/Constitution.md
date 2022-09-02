@@ -12,7 +12,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Chris F, 2017 - 2021
 * Chris R, 2021 - Present
 ### Section 1.02 Commissioner Term Length
-1. Until they retire, the Commissioners shall be Chris F and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
+1. Until they retire, the Commissioners shall be Chris R and Jason W, founders of the Just a Few Garys Fantasy Football League (hereinafter referred to as the “League”).
 ### Section 1.03 Commissioner Appointment
 1. In the event a Commissioner retires, he shall appoint a successor Commissioner (if they choose to do so), who shall inherit all powers set forth in the Constitution.
 ### Section 1.04 Commissioner Duties
@@ -33,7 +33,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Patrick U
 * Tyler B
 * Riley A
-* Cory E
+* Matthew McD
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
@@ -53,8 +53,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. If Antonio Gibson scores a touchdown, a shot of or drink containing whiskey must be consumed.
 1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
 1. If Mark Andrews scores a touchdown, a shot of or drink containing bourbon must be consumed.
-1. If Cam Newton scores a rushing touchdown, a drink containing Clamato must be consumed.
-1. If Ryan Fitzpatrick scores a rushing touchdown, a short of Fireball Cinnamon Whiskey must be consumed.
 1. Drinking specifications:
    1. The drink must be consumed before midnight Tuesday.
    2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
@@ -75,7 +73,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 2.02 Roster
 1. 10 Starting Positions
 1. 6 Bench
-1. 2 COVID IR
+1. 1 IR
 ### Section 2.03 Starting Positions
 1. 1 Quarterback (QB)
 1. 2 Running Backs (RB)
@@ -109,8 +107,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Once a team is eliminated from either the cash prize or the punishment their team will be locked.
 1. Playoffs are not reseeded.
 ### Section 2.08 COVID-19
-1. Due to the threat of COVID-19 we have introduced 2 IR spots for COVID designation only.
-1. Adding a player with the wrong designation will result in not being able to start a kicker the following week and the player will be removed from the IR spot.
 1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion. The declaration must be made before either player has had their game. This does not cover if a player misses a game because of COVID.  COVID will be treated as any other last minute injury.
 
 ## Article III. Gary Olympics
@@ -120,16 +116,14 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Tie breakers will be decided by coin flip.
 1. Events and brackets are subject to change.
 ### Section 3.02 Events
-1. The events for 2021 are:
+1. The events for 2022 are:
    1. Punt Pass Kick
    1. 40 Yard Dash
    1. 2 Cone
    1. 3 Cone
    1. Beer Darts
-   1. Flip Cup
-   1. Beer Pong
    1. Wonderlic
-### Section 3.02 Rewards
+### Section 3.03 Rewards
 1. The reward is extra FAAB money:
    1. $20
    1. $15
@@ -195,6 +189,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. 2018 - Keg Buyout - Justin F
 1. 2019 - Keg Buyout - Justin F
 1. 2020 - Keg Buyout - Eric D
+1. 2021 - Keg Buyout - Remi D
 ### Section 7.03 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
@@ -275,4 +270,12 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Added Scoring Modifications section - Suggested by Jason W
 * Added Ryan Fitzpatrick drinking rule - Suggested by Ryan George
 * Added specification to drinking rule - Suggested by Patrick U
-
+#### 2022 Amendments:
+* Removed Cory E - Suggested by Cory E
+* Added Matthew McD - Suggested by Chris R
+* Modified Section 1.02 to change from Chris F to Chris R - Suggested by Jason W
+* Modifeid Section 2.02 Roster from 2 COVID IR to 1 IR - Suggested by Jason W
+* Removed Section 1.08 Cam Newton drinking rule - Suggested by Jason W
+* Removed Section 1.08 Ryan Fitzpatrick drinking rule - Suggested by Jason W
+* Modified Section 2.08 to remove COVID IR spots and wrong designation punishment. - Suggested by Jason W
+* Modified Section 3.02 Events - Suggested by Jason W
