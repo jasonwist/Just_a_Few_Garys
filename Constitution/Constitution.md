@@ -122,7 +122,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. 2 Cone
    1. 3 Cone
    1. Beer Darts
-   2. Wonderlic
+   1. Wonderlic
 ### Section 3.03 Rewards
 1. The reward is extra FAAB money:
    1. $20
