@@ -53,7 +53,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. If Antonio Gibson scores a touchdown, a shot of or drink containing whiskey must be consumed.
 1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
 1. If Mark Andrews scores a touchdown, a shot of or drink containing bourbon must be consumed.
-1. Drinking specifications:
+1. If your starter scores 0, and it is the month of November or December, a drink of eggnog must be consumed.
+3. Drinking specifications:
    1. The drink must be consumed before midnight Tuesday.
    2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
    3. Failure to do so will result in not being able to start a kicker the following week.
