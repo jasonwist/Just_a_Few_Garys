@@ -47,7 +47,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
 1. Trash talk is allowed. Don’t make it personal.
 ### Section 1.08 Drinking Rules
-1. If Jameis Winston or Jameson Williams scores a rushing touchdown, a shot of Irish Whiskey must be consumed.
+1. If Jameis Winston scores a rushing touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
 2. If Tua Tagovailoa scores a rushing touchdown, a shot of, or drink containing Kahlúa must be consumed.
 3. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey must be consumed.
