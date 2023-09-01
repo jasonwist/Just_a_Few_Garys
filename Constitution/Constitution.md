@@ -47,18 +47,24 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
 1. Trash talk is allowed. Don’t make it personal.
 ### Section 1.08 Drinking Rules
-1. If Jameis Winston scores a rushing touchdown, a shot of Jameson Irish Whiskey must be consumed.
+1. If Jameis Winston scores a rushing touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
-1. If Tua Tagovailoa scores a rushing touchdown, a shot of or drink containing Kahlúa must be consumed.
-1. If Antonio Gibson scores a touchdown, a shot of or drink containing whiskey must be consumed.
-1. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
-1. If Mark Andrews scores a touchdown, a shot of or drink containing bourbon must be consumed.
-1. If your starter scores 0, and it is the month of November or December, a drink of eggnog must be consumed.
-3. Drinking specifications:
+2. If Tua Tagovailoa scores a rushing touchdown, a shot of, or drink containing Kahlúa must be consumed.
+3. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey must be consumed.
+4. If Gardner Minshew II scores a rushing touchdown, a beer must be consumed shotgun style.
+5. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon must be consumed.
+6. If George Kittle scores a touchdown, a shot of, or drink containing vodka must be consumed.
+7. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum must be consumed.
+8. If Zach Charbonnet scores a touchdown, a shot of, or drink containing alcohol (excluding any type of beer) must be consumed with their pinky sticking out in the photo.
+9. If your starter scores 0, and it is the month of November or December, a drink of eggnog must be consumed.
+10. Drinking specifications:
    1. The drink must be consumed before midnight Tuesday.
    2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
    3. Failure to do so will result in not being able to start a kicker the following week.
    4. Extra time will be given on a case by case basis decided by the Commissioners.
+   5. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
+   6. A _shot_ is considered to be at least 1 fl oz (approximately 29.574 ml) or be advertised as a _shot_ by a drinking establishment. 
+   7. A _schooner_ is considered to be at least 946 ml in volume or be advertised as a _schooner_ by a drinking establishment.
 ### Section 1.09 tl;dr 
 1. Don’t be a dink.
 ### Section 1.10 Rules For Rule Breakers
