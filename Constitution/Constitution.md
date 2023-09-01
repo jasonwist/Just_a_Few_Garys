@@ -56,7 +56,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 6. If George Kittle scores a touchdown, a shot of, or drink containing vodka must be consumed.
 7. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum must be consumed.
 8. If Zach Charbonnet scores a touchdown, a shot of, or drink containing alcohol (excluding any type of beer) must be consumed with their pinky sticking out in the photo.
-9. Drinking specifications:
+9. If your starter scores 0, and it is the month of November or December, a drink of eggnog must be consumed.
+10. Drinking specifications:
    1. The drink must be consumed before midnight Tuesday.
    2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
    3. Failure to do so will result in not being able to start a kicker the following week.
