@@ -55,16 +55,20 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 5. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon must be consumed.
 6. If George Kittle scores a touchdown, a shot of, or drink containing vodka must be consumed.
 7. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum must be consumed.
-8. If Zach Charbonnet scores a touchdown, a shot of, or drink containing alcohol (excluding any type of beer) must be consumed with their pinky sticking out in the photo.
-9. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
-10. Drinking specifications:
+8. If Tank Bigsby scores a touchdown, a tankard of beer must be consumed.
+9. If Tank Dell scores a touchdown, a tankard of beer must be consumed.
+10. If Luke Schoonmaker scores a touchdown, a schooner of beer must be consumed.
+11. If Zach Charbonnet scores a touchdown, a shot of, or drink containing alcohol (excluding any type of beer) must be consumed with their pinky sticking out in the photo.
+12. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
+13. Drinking specifications:
    1. The drink must be consumed before midnight Tuesday.
    2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
    3. Failure to do so will result in not being able to start a kicker the following week.
    4. Extra time will be given on a case by case basis decided by the Commissioners.
    5. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
-   6. A _shot_ is considered to be at least 1 fl oz (approximately 29.574 ml) or be advertised as a _shot_ by a drinking establishment. 
-   7. A _schooner_ is considered to be at least 946 ml in volume or be advertised as a _schooner_ by a drinking establishment.
+   6. A _shot_ is considered to be at least 1 fl oz (approximately 29.6 ml) or be advertised as a _shot_ by a drinking establishment. 
+   7. A _tankard_ is considered to be at least 16 fl oz (approximately 473 ml) in volume or be advertised as a _tankard_ by a drinking establishment.
+   8. A _schooner_ is considered to be at least 946 ml (approximately 32 fl oz) in volume or be advertised as a _schooner_ by a drinking establishment.
 ### Section 1.09 tl;dr 
 1. Don’t be a dink.
 ### Section 1.10 Rules For Rule Breakers
