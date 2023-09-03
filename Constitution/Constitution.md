@@ -66,9 +66,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    3. Failure to do so will result in not being able to start a kicker the following week.
    4. Extra time will be given on a case by case basis decided by the Commissioners.
    5. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
-   6. A _shot_ is considered to be at least 1 fl oz (approximately 29.6 ml) or be advertised as a _shot_ by a drinking establishment. 
-   7. A _tankard_ is considered to be at least 16 fl oz (approximately 473 ml) in volume or be advertised as a _tankard_ by a drinking establishment.
-   8. A _schooner_ is considered to be at least 946 ml (approximately 32 fl oz) in volume or be advertised as a _schooner_ by a drinking establishment.
+   6. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment. 
+   7. A _tankard_ is considered to be at least 16 US fl oz (approximately 473 ml) in volume or be advertised as a _tankard_ by a drinking establishment.
+   8. A _schooner_ is considered to be at least 32 US fl oz (approximately 946 ml) in volume or be advertised as a _schooner_ by a drinking establishment.
 ### Section 1.09 tl;dr 
 1. Don’t be a dink.
 ### Section 1.10 Rules For Rule Breakers
