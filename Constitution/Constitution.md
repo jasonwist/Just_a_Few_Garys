@@ -288,3 +288,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Removed Section 1.08 Cam Newton drinking rule - Suggested by Jason W
 * Removed Section 1.08 Ryan Fitzpatrick drinking rule - Suggested by Jason W
 * Modified Section 2.08 to remove COVID IR spots and wrong designation punishment. - Suggested by Jason W
+#### 2023 Amendments:
+* Added eggnog drinking rule - Suggested by Ryan G
+* Jameson Williams drinking rule - Suggested by Riley A
+* CeeDee Lamb drinking rule - Suggested by Riley A
+* Tank Bigsby or Nathaniel "Tank" Dell drinking rule - Suggested by Ryan G
+* Zach Charbonnet drinking rule - Suggested by Riley A
