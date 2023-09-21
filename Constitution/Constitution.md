@@ -162,10 +162,22 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Draft order will be determined by a preexisting order.
 1. The draft will continue until each team has every roster slot filled. At that point the draft is final and will be entered online.
 1. The draft budget will be $200.
-###  Section 4.03 Redraft League
-1. This is not a keeper league.
-### Section 4.04 Drafting Penalties
-1. If a manager name drops a player they must take a shot.
+###  Section 4.03 Keeper League
+1. This is a keeper league.
+1. A player may not be kept for more than 2 seasons.
+1. A player obtained as a Free Agent will retain the cost of the FAAB, 1/2 FAAB, $1.
+1. A player obtained as a Free Agent will cost at least $1.
+1. Players obtained through trade keep their value obtained by the original team.
+###  Section 4.04 Keeper Formula
+* Original Draft Price: Determined by Section 4.03.
+* Projected Value: Determined by Yahoo Avg $ or Proj $.
+* Regression Factor: 50%.
+* Fixed Increase: $5.
+* All values will be rounded up if 0.5 or greater.
+Keeper Formula: Keeper Value = [(Original Draft Price + Projected Value) * Regression Factor] + Fixed Increase
+e.g. Player X was drafted for $50. Player X is projected to be worth $65 in the upcoming season. $63 = [($50 + $65) * .50] + $5
+### Section 4.05 Drafting Penalties
+1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
 ## Article V. Transactions
 ### Section 5.01 Waivers and Free Agents
