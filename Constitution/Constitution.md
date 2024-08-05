@@ -33,7 +33,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Patrick U
 * Tyler B
 * Riley A
-* Matthew McD
+* Caleb W
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
@@ -113,8 +113,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The top 6 seeds make the playoffs and are eligible for the Payout.
 1. Once a team is eliminated from either the cash prize or the punishment their team will be locked.
 1. Playoffs are not reseeded.
-### Section 2.08 COVID-19
-1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion. The declaration must be made before either player has had their game. This does not cover if a player misses a game because of COVID.  COVID will be treated as any other last minute injury.
+### Section 2.08 Game Rescheduling & Cancelations
+1. We will default to yahoo to handle scoring if a game is postponed or rescheduled.
+2. We will not allow substitutions if a game is canceled. If stats are recorded or points awarded is up to the Yahoo platform & the NFL.
 
 ## Article III. Gary Olympics
 ### Section 3.01 Event
@@ -123,12 +124,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Tie breakers will be decided by coin flip.
 1. Events and brackets are subject to change.
 ### Section 3.02 Events
-1. The events for 2022 are:
+1. The events for 2024 are:
    1. Punt Pass Kick
    1. 40 Yard Dash
    1. 2 Cone
    1. 3 Cone
-   1. Food Challenge
    1. Flip Cup
    1. Beer Darts
    1. Beer Pong
@@ -173,7 +173,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 5.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
-1. The trade deadline is before the Sunday games of Week 12. 
+1. The trade deadline is before the Sunday games of Week 12.  
 
 ## Article VI. Finances
 ### Section 6.01 League Fee
@@ -200,6 +200,8 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. 2019 - Keg Buyout - Justin F
 1. 2020 - Keg Buyout - Eric D
 1. 2021 - Keg Buyout - Remi D
+1. 2022 - Keg Buyout - Tyler B
+1. 2023 - Keg Buyout - Matthew McD
 ### Section 7.03 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
@@ -294,3 +296,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * CeeDee Lamb drinking rule - Suggested by Riley A
 * Tank Bigsby or Nathaniel "Tank" Dell drinking rule - Suggested by Ryan G
 * Zach Charbonnet drinking rule - Suggested by Riley A
+#### 2024 Amendments:
+* Removed Matthew McD - Suggested by Matthew McD
+* Added Caleb W - Suggested by Chris B
+* Updated Section 2.08 COVID-19 to be game cancelations specific - Suggested by Jason W
+* Added past losers - Suggested by Jason W
+* Removed Food event from Section 3.02 Events - Suggested by Jason W
