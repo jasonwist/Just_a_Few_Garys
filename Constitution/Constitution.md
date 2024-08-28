@@ -164,13 +164,14 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The draft budget will be $200.
 ###  Section 4.03 Keeper League
 1. This is a keeper league.
-1. A player may not be kept for more than 2 seasons.
-1. A player obtained as a Free Agent will retain the cost of the FAAB, 1/2 FAAB, $1.
-1. A player obtained as a Free Agent will cost at least $1.
-1. Players obtained through trade keep their value obtained by the original team.
+1. Each manager may keep up to 2 players.
+1. Original Draft Price is determined by Yahoo's Player Salary column displaying the final rosters for last season.
+1. Free Agent pick ups listed as '-' will be assigned a value of $1.
+1. Players obtained through trades or waivers keep their original draft value.
+1. Keeper deadline will be the Monday of the week of the draft.
 ###  Section 4.04 Keeper Formula
 * Original Draft Price: Determined by Section 4.03.
-* Projected Value: Determined by Yahoo Avg $ or Proj $.
+* Projected Value: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
 * Regression Factor: 50%.
 * Fixed Increase: $5.
 * All values will be rounded up if 0.5 or greater.
