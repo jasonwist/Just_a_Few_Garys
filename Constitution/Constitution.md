@@ -176,7 +176,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Fixed Increase: $5.
 * All values will be rounded up if 0.5 or greater.
 Keeper Formula: Keeper Value = [(Original Draft Price + Projected Value) * Regression Factor] + Fixed Increase
-e.g. Player X was drafted for $50. Player X is projected to be worth $65 in the upcoming season. $63 = [($50 + $65) * .50] + $5
+e.g. Player X was drafted for $60. Player X is projected to be worth $58 in the upcoming season. $64 = [($60 + $58) * .50] + $5
+e.g. Player Y was an undrafted free agent. Player Y is projected to be worth $46 in the upcoming season. $29 = [($1 + $46) * .50] + $5
+e.g. Player Z was drafted for $17. Player Z is projected to be worth $50 in the upcoming season. $39 = [($17 + $50) * .50] + $5
+e.g. Player A was drafted for $2, dropped and picked up by another team. Player A is projected to be worth $3 in the upcoming season. $8 = [($2 + $3) * .50] + $5
+e.g. Player B was drafted for $21, then traded. Player B is projected to be worth $28 in the upcoming season. $30 = [($21 + $28) * .50] + $5
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
