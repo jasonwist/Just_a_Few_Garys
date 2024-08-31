@@ -33,7 +33,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Patrick U
 * Tyler B
 * Riley A
-* Matthew McD
+* Caleb W
 ### Section 1.06 League Membership
 1. All interested members from the previous season have the right to retain their franchise as long as they have not been banished by the Commissioners.
 1. Banishments will be instituted by the Commissioners, which are subject to appeal and league vote, and shall be upheld for a minimum of 1 season.
@@ -49,28 +49,27 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.08 Drinking Rules
 1. If Jameis Winston scores a rushing touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey (e.g. Jameson) must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
-2. If Tua Tagovailoa scores a rushing touchdown, a shot of, or drink containing coffee liqueur (e.g. Kahlúa) must be consumed.
-3. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey (e.g. Gibson's Finest) must be consumed.
-4. If Gardner Minshew II scores a rushing touchdown, a can of beer must be consumed shotgun style.
-5. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
-6. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
-7. If Tank Bigsby or Nathaniel "Tank" Dell scores a touchdown, at least a tankard of beer must be consumed.
-10. If Zach Charbonnet scores a touchdown, a shot of, or drink containing alcohol (excluding any type of beer) must be consumed with their pinky sticking out in the photo.
-11. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
+2. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey (e.g. Gibson's Finest) must be consumed.
+3. If Gardner Minshew II scores a rushing touchdown, a can of beer must be consumed shotgun style.
+4. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
+5. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
+6. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
 ### Secion 1.09 Drinking specifications
-   1. The drink must be consumed before midnight Tuesday.
-   2. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
-   3. Failure to do so will result in not being able to start a kicker the following week.
-   4. Extra time will be given on a case by case basis decided by the Commissioners.
-   5. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
-   6. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment. 
-   7. A _tankard_ is considered to be at least 16 US fl oz (approximately 473 ml) in volume or be advertised as a _tankard_ by a drinking establishment.
+   1. We will be following the spirit of the law rather than obeying the letter of the law.
+   2. To obey the letter of the law is to follow the literal reading of the words of the law, whereas following the spirit of the law is to follow the intention of why the law was enforced.
+   3. The drink must be consumed before midnight Tuesday.
+   4. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
+   5. Failure to do so will result in not being able to start a kicker the following week.
+   6. Extra time will be given on a case by case basis decided by the Commissioners.
+   7. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
+   8. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment.
 ### Section 1.10 tl;dr 
 1. Don’t be a dink.
 ### Section 1.11 Rules For Rule Breakers
 1. Any owner who has not paid by the end of Week 1 their team will be locked. If they have still not paid before the start of Week 2 they will be banished.
 1. Any owners guilty of collusion shall immediately be banished from the league.  The Commissioners shall have final say as to whether or not collusion has taken place, and at their discretion, may conduct a league vote concerning the allegations of collusion, but the Commissioners’ votes shall be overriding and conclusive with regard to whether an owner shall be banished or not.  The colluding owner(s) shall not receive any refund of league fees.
 1. Any player that consistently breaks Section 1.07 will be banished from the league, at the Commissioners’ discretion. If you are removed from a season that you have paid for, you will not be refunded your money and your team will be replaced at the Commissioner’s discretion. In any event, in almost all cases, you will not be able to participate in future seasons.
+
 ## Article II. League Structure (Rosters, Scoring, Scheduling)
 ### Section 2.01 League Structure
 1. The league consists of 12 teams.
@@ -112,8 +111,10 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The top 6 seeds make the playoffs and are eligible for the Payout.
 1. Once a team is eliminated from either the cash prize or the punishment their team will be locked.
 1. Playoffs are not reseeded.
-### Section 2.08 COVID-19
-1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion. The declaration must be made before either player has had their game. This does not cover if a player misses a game because of COVID.  COVID will be treated as any other last minute injury.
+### Section 2.08 Game Rescheduling & Cancelations
+1. We will default to yahoo to handle scoring if a game is postponed or rescheduled.
+2. We will not allow substitutions if a game is canceled. If stats are recorded or points awarded is up to the Yahoo platform & the NFL.
+
 ## Article III. Gary Olympics
 ### Section 3.01 Event
 1. The Olympics will be held before or same day as the draft.  As it no longer impacts the draft itself it may be held later that day.
@@ -121,12 +122,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Tie breakers will be decided by coin flip.
 1. Events and brackets are subject to change.
 ### Section 3.02 Events
-1. The events for 2022 are:
+1. The events for 2024 are:
    1. Punt Pass Kick
    1. 40 Yard Dash
    1. 2 Cone
    1. 3 Cone
-   1. Food Challenge
    1. Flip Cup
    1. Beer Darts
    1. Beer Pong
@@ -146,6 +146,7 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. $2
    1. $1
 1. If you do not participate at all you get $0.
+
 ## Article IV. The Draft
 ### Section 4.01 Live Draft
 1. Each offseason the draft will be planned by a designated draft host with the assistance of league officials.
@@ -180,13 +181,15 @@ e.g. Player A was drafted for $2, dropped and picked up by another team. Player 
 e.g. Player B was drafted for $21, then traded. Player B is projected to be worth $28 in the upcoming season. $30 = [($21 + $28) * .50] + $5
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
+
 ## Article V. Transactions
 ### Section 5.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
 ### Section 5.02 Trades
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
-1. The trade deadline is before the Sunday games of Week 12. 
+1. The trade deadline is before the Sunday games of Week 12.  
+
 ## Article VI. Finances
 ### Section 6.01 League Fee
 1. A league fee of $150 is due on or before the draft begins, unless other prior arrangements have been made with the Commissioners.
@@ -198,6 +201,7 @@ e.g. Player B was drafted for $21, then traded. Player B is projected to be wort
 1. Highest Score for the Week = $30
 1. From Weeks 1 through 14 whoever has the highest score will be awarded $30.
    1. In the event of a tie the payment will be carried over, unless it occurs on Week 14, then the payment will be split. 
+
 ## Article VII. Punishments
 ### Section 7.01 Current Punishment
 1. At this time we are doing keg buyouts instead of punishments.
@@ -211,11 +215,14 @@ e.g. Player B was drafted for $21, then traded. Player B is projected to be wort
 1. 2019 - Keg Buyout - Justin F
 1. 2020 - Keg Buyout - Eric D
 1. 2021 - Keg Buyout - Remi D
+1. 2022 - Keg Buyout - Tyler B
+1. 2023 - Keg Buyout - Matthew McD
 ### Section 7.03 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
 1. The loser must host said keg at a party within reasonable distance of Regina.
 1. The loser must be a Beer Wench and fetch beer for King Gary.
+
 ## Article VIII. Amendments to the Constitution
 ### Section 8.01 Alterations and Additions
 1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deem the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
@@ -304,4 +311,13 @@ e.g. Player B was drafted for $21, then traded. Player B is projected to be wort
 * Tank Bigsby or Nathaniel "Tank" Dell drinking rule - Suggested by Ryan G
 * Zach Charbonnet drinking rule - Suggested by Riley A
 #### 2024 Amendments:
+* Removed Matthew McD - Suggested by Matthew McD
+* Added Caleb W - Suggested by Chris B
+* Updated Section 2.08 COVID-19 to be game cancelations specific - Suggested by Jason W
+* Added past losers - Suggested by Jason W
+* Removed Food event from Section 3.02 Events - Suggested by Jason W
+* Removed Tank Bigsby or Nathaniel "Tank" Dell drinking rule - Suggested by Jason W
+* Removed Zach Charbonnet drinking rule - Suggested by Jason W
+* Removed Kahlúa for Tua Tagovailoa - Suggested by Jason W
+* Relaxed drinking rules - Suggested by Jason W
 * Added keeper rules - Suggested by Chris B
