@@ -160,10 +160,27 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Draft order will be determined by a preexisting order.
 1. The draft will continue until each team has every roster slot filled. At that point the draft is final and will be entered online.
 1. The draft budget will be $200.
-###  Section 4.03 Redraft League
-1. This is not a keeper league.
-### Section 4.04 Drafting Penalties
-1. If a manager name drops a player they must take a shot.
+###  Section 4.03 Keeper League
+1. This is a keeper league.
+1. Each manager may keep up to 2 players.
+1. Original Draft Price is determined by Yahoo's Player Salary column displaying the final rosters for last season.
+1. Free Agent pick ups listed as '-' will be assigned a value of $1.
+1. Players obtained through trades or waivers keep their original draft value.
+1. Keeper deadline will be the Monday of the week of the draft.
+###  Section 4.04 Keeper Formula
+* Original Draft Price: Determined by Section 4.03.
+* Projected Value: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
+* Regression Factor: 50%.
+* Fixed Increase: $5.
+* All values will be rounded up if 0.5 or greater.
+Keeper Formula: Keeper Value = [(Original Draft Price + Projected Value) * Regression Factor] + Fixed Increase
+e.g. Player X was drafted for $60. Player X is projected to be worth $58 in the upcoming season. $64 = [($60 + $58) * .50] + $5
+e.g. Player Y was an undrafted free agent. Player Y is projected to be worth $46 in the upcoming season. $29 = [($1 + $46) * .50] + $5
+e.g. Player Z was drafted for $17. Player Z is projected to be worth $50 in the upcoming season. $39 = [($17 + $50) * .50] + $5
+e.g. Player A was drafted for $2, dropped and picked up by another team. Player A is projected to be worth $3 in the upcoming season. $8 = [($2 + $3) * .50] + $5
+e.g. Player B was drafted for $21, then traded. Player B is projected to be worth $28 in the upcoming season. $30 = [($21 + $28) * .50] + $5
+### Section 4.05 Drafting Penalties
+1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
 ## Article V. Transactions
 ### Section 5.01 Waivers and Free Agents
@@ -211,7 +228,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deem the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
 1. All amendments proposed during the season will be reviewed at the end of the current season and not be made applicable to the current season.
 1. All amendments to the League constitution will be named according to the league member who caused or identified the problem.
-
 #### 2013 Amendments:
 * Removed the cap of 4 RBs per team. - Suggested by Justin F
 #### 2014 Amendments:
@@ -304,3 +320,4 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Removed Zach Charbonnet drinking rule - Suggested by Jason W
 * Removed Kahlúa for Tua Tagovailoa - Suggested by Jason W
 * Relaxed drinking rules - Suggested by Jason W
+* Added keeper rules - Suggested by Chris B
