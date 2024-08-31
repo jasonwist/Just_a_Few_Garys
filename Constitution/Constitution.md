@@ -71,7 +71,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Any owner who has not paid by the end of Week 1 their team will be locked. If they have still not paid before the start of Week 2 they will be banished.
 1. Any owners guilty of collusion shall immediately be banished from the league.  The Commissioners shall have final say as to whether or not collusion has taken place, and at their discretion, may conduct a league vote concerning the allegations of collusion, but the Commissioners’ votes shall be overriding and conclusive with regard to whether an owner shall be banished or not.  The colluding owner(s) shall not receive any refund of league fees.
 1. Any player that consistently breaks Section 1.07 will be banished from the league, at the Commissioners’ discretion. If you are removed from a season that you have paid for, you will not be refunded your money and your team will be replaced at the Commissioner’s discretion. In any event, in almost all cases, you will not be able to participate in future seasons.
-
 ## Article II. League Structure (Rosters, Scoring, Scheduling)
 ### Section 2.01 League Structure
 1. The league consists of 12 teams.
@@ -115,7 +114,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Playoffs are not reseeded.
 ### Section 2.08 COVID-19
 1. If there is a threat of game cancelation Managers may submit standby players.  Managers will be specific in player pairings to avoid confusion. The declaration must be made before either player has had their game. This does not cover if a player misses a game because of COVID.  COVID will be treated as any other last minute injury.
-
 ## Article III. Gary Olympics
 ### Section 3.01 Event
 1. The Olympics will be held before or same day as the draft.  As it no longer impacts the draft itself it may be held later that day.
@@ -148,7 +146,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
    1. $2
    1. $1
 1. If you do not participate at all you get $0.
-
 ## Article IV. The Draft
 ### Section 4.01 Live Draft
 1. Each offseason the draft will be planned by a designated draft host with the assistance of league officials.
@@ -162,11 +159,27 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Draft order will be determined by a preexisting order.
 1. The draft will continue until each team has every roster slot filled. At that point the draft is final and will be entered online.
 1. The draft budget will be $200.
-###  Section 4.03 Redraft League
-1. This is not a keeper league.
-### Section 4.04 Drafting Penalties
-1. If a manager name drops a player they must take a shot.
-
+###  Section 4.03 Keeper League
+1. This is a keeper league.
+1. Each manager may keep up to 2 players.
+1. Original Draft Price is determined by Yahoo's Player Salary column displaying the final rosters for last season.
+1. Free Agent pick ups listed as '-' will be assigned a value of $1.
+1. Players obtained through trades or waivers keep their original draft value.
+1. Keeper deadline will be the Monday of the week of the draft.
+###  Section 4.04 Keeper Formula
+* Original Draft Price: Determined by Section 4.03.
+* Projected Value: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
+* Regression Factor: 50%.
+* Fixed Increase: $5.
+* All values will be rounded up if 0.5 or greater.
+Keeper Formula: Keeper Value = [(Original Draft Price + Projected Value) * Regression Factor] + Fixed Increase
+e.g. Player X was drafted for $60. Player X is projected to be worth $58 in the upcoming season. $64 = [($60 + $58) * .50] + $5
+e.g. Player Y was an undrafted free agent. Player Y is projected to be worth $46 in the upcoming season. $29 = [($1 + $46) * .50] + $5
+e.g. Player Z was drafted for $17. Player Z is projected to be worth $50 in the upcoming season. $39 = [($17 + $50) * .50] + $5
+e.g. Player A was drafted for $2, dropped and picked up by another team. Player A is projected to be worth $3 in the upcoming season. $8 = [($2 + $3) * .50] + $5
+e.g. Player B was drafted for $21, then traded. Player B is projected to be worth $28 in the upcoming season. $30 = [($21 + $28) * .50] + $5
+### Section 4.05 Drafting Penalties
+1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 ## Article V. Transactions
 ### Section 5.01 Waivers and Free Agents
 1. The league will employ auction waivers with a $200 budget.
@@ -174,7 +187,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. All trades will be approved by either Commissioner.
 1. As stated in section 1.09 any owners guilty of collusion shall immediately be banished from the league.
 1. The trade deadline is before the Sunday games of Week 12. 
-
 ## Article VI. Finances
 ### Section 6.01 League Fee
 1. A league fee of $150 is due on or before the draft begins, unless other prior arrangements have been made with the Commissioners.
@@ -186,7 +198,6 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Highest Score for the Week = $30
 1. From Weeks 1 through 14 whoever has the highest score will be awarded $30.
    1. In the event of a tie the payment will be carried over, unless it occurs on Week 14, then the payment will be split. 
-
 ## Article VII. Punishments
 ### Section 7.01 Current Punishment
 1. At this time we are doing keg buyouts instead of punishments.
@@ -205,13 +216,11 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. The loser must purchase a keg of beer.
 1. The loser must host said keg at a party within reasonable distance of Regina.
 1. The loser must be a Beer Wench and fetch beer for King Gary.
-
 ## Article VIII. Amendments to the Constitution
 ### Section 8.01 Alterations and Additions
 1. All amendments proposed by league members must receive approval from the Commissioners prior to the start of the season. If the Commissioners deem the proposed amendment suitable, it shall be presented to the league members for a vote. A majority of all league members must approve the amendment for it to be adopted.
 1. All amendments proposed during the season will be reviewed at the end of the current season and not be made applicable to the current season.
 1. All amendments to the League constitution will be named according to the league member who caused or identified the problem.
-
 #### 2013 Amendments:
 * Removed the cap of 4 RBs per team. - Suggested by Justin F
 #### 2014 Amendments:
@@ -294,3 +303,5 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * CeeDee Lamb drinking rule - Suggested by Riley A
 * Tank Bigsby or Nathaniel "Tank" Dell drinking rule - Suggested by Ryan G
 * Zach Charbonnet drinking rule - Suggested by Riley A
+#### 2024 Amendments:
+* Added keeper rules - Suggested by Chris B
