@@ -183,23 +183,23 @@ Player Scenarios
 1. High-Value Draft Pick
    * Original Draft: $60
    * Projected Value: $58
-   * Calculation: $$($60 + $58) \times 0.50] + $5 = $64
+   * Calculation: ($60 + $58) \times 0.50] + $5 = $64
 1. Undrafted Free Agent
    * Original Draft: $1
    * Projected Value: $46
-   * Calculation: $$($1 + $46) \times 0.50] + $5 = $29
+   * Calculation: ($1 + $46) \times 0.50] + $5 = $29
 2. Mid-Range Draft Pick
    * Original Draft: $17
    * Projected Value: $50
-   * Calculation: $$($17 + $50) \times 0.50] + $5 = $39
+   * Calculation: ($17 + $50) \times 0.50] + $5 = $39
 3. Waiver Wire Pickup
    * Original Draft: $2
    * Projected Value: $3
-   * Calculation: $$($2 + $3) \times 0.50] + $5 = $8
+   * Calculation: ($2 + $3) \times 0.50] + $5 = $8
 4. Traded Player
    * Original Draft: $21
    * Projected Value: $28
-   * Calculation: $$($21 + $28) \times 0.50] + $5 = $30
+   * Calculation: ($21 + $28) \times 0.50] + $5 = $30
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
