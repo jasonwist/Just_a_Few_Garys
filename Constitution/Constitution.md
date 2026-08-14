@@ -163,43 +163,41 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ###  Section 4.03 Keeper League
 1. This is a keeper league.
 1. Each manager may keep up to 2 players.
+1. Players may only be kept for 2 years.
 1. Original Draft Price is determined by Yahoo's Player Salary column displaying the final rosters for last season.
 1. Free Agent pick ups listed as '-' will be assigned a value of $1.
 1. Players obtained through trades or waivers keep their original draft value.
 1. Keeper deadline will be the Monday of the week of the draft.
 ###  Section 4.04 Keeper Formula
-* Original Draft Price: Determined by Section 4.03.
-* Projected Value: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
+* Original Draft Salary: Determined by Section 4.03.
+* Projected Salary: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
 * Regression Factor: 50%.
-* Fixed Increase: $5.
 * All values will be rounded up if 0.5 or greater.
 
 #### Keeper Value Formula
 The keeper value is calculated using: 
-Keeper Value=[(Original Draft Price+Projected Value)×0.50]+$5
+Keeper Salary=(Last Year's Salary + Projected Salary)/2
 
 Example Calculations
 Player Scenarios
-1. High-Value Draft Pick
-   * Original Draft: $60
-   * Projected Value: $58
-   * Calculation: ($60 + $58) \times 0.50] + $5 = $64
+1. Drafted Player
+   * Last Year's Draft Salary: $60
+   * Yahoo Projected Salary for upcoming draft: $58
+   * Calculation: ($60 + $58)/2 = $59
 1. Undrafted Free Agent
-   * Original Draft: $1
-   * Projected Value: $46
-   * Calculation: ($1 + $46) \times 0.50] + $5 = $29
-2. Mid-Range Draft Pick
-   * Original Draft: $17
-   * Projected Value: $50
-   * Calculation: ($17 + $50) \times 0.50] + $5 = $39
-3. Waiver Wire Pickup
-   * Original Draft: $2
-   * Projected Value: $3
-   * Calculation: ($2 + $3) \times 0.50] + $5 = $8
-4. Traded Player
-   * Original Draft: $21
-   * Projected Value: $28
-   * Calculation: ($21 + $28) \times 0.50] + $5 = $30
+   * Last Year's Draft Salary: Undrafted
+   * Yahoo Projected Salary for upcoming draft: $42
+   * Calculation: ($1 + $46)/2 = $22
+1. Traded Player
+   * Last Year's Draft or Salary: $21
+   * Yahoo Projected Salary for upcoming draft: $28
+   * Calculation: ($21 + $28)/2 = $25
+   * Last year to be kept if they were not drafted.
+1. Keeper from Previous Year
+   * Last Year's Salary: $21
+   * Yahoo Projected Salary for upcoming draft: $28
+   * Calculation: ($21 + $28)/2 = $30
+   * Last year to be kept.
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
@@ -344,3 +342,9 @@ Player Scenarios
 * Removed Kahlúa for Tua Tagovailoa - Suggested by Jason W
 * Relaxed drinking rules - Suggested by Jason W
 * Added keeper rules - Suggested by Chris B
+#### 2026 Amendments:
+* Modified kicker rules - Suggested by Jason W
+* Removed Antonio Gibson rule - Suggested by Jason W
+* Added George Pickens rule - Suggested by Jason W
+* Modified keeper formula - Suggested by Chris F
+* Added keeper length rule - Suggested by Chris F
