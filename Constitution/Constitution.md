@@ -49,20 +49,20 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.08 Drinking Rules
 1. If Jameis Winston scores a touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey (e.g. Jameson) must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
-2. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey (e.g. Gibson's Finest) must be consumed.
-3. If Gardner Minshew II scores a touchdown, a can of beer must be consumed shotgun style.
-4. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
-5. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
-6. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
+1. If George Pickens scores a touchdown, a pickleback or 'whickle' must be consumed: a shot of whiskey chased by a shot of pickle brine.
+2. If Gardner Minshew II scores a touchdown, a can of beer must be consumed shotgun style.
+1. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
+1. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
+1. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
 ### Secion 1.09 Drinking specifications
    1. We will be following the spirit of the law rather than obeying the letter of the law.
-   2. To obey the letter of the law is to follow the literal reading of the words of the law, whereas following the spirit of the law is to follow the intention of why the law was enforced.
-   3. The drink must be consumed before midnight Tuesday.
-   4. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
-   5. Failure to do so will result in not being able to start a kicker the following week.
-   6. Extra time will be given on a case by case basis decided by the Commissioners.
-   7. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
-   8. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment.
+   1. To obey the letter of the law is to follow the literal reading of the words of the law, whereas following the spirit of the law is to follow the intention of why the law was enforced.
+   1. The drink must be consumed before midnight Tuesday.
+   1. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
+   1. Failure to do so will result in not being able to start a kicker the following week.
+   1. Extra time will be given on a case by case basis decided by the Commissioners.
+   1. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
+   1. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment.
 ### Section 1.10 tl;dr 
 1. Don’t be a dink.
 ### Section 1.11 Rules For Rule Breakers
@@ -91,10 +91,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Scoring will be decided by the Commissioners prior to draft day and will be posted on the League Settings page. Any suggestions to the Rules and scoring can be brought up at the draft and voted on by the league. Commissioners do have the power to overrule, but they (Commissioners) must vote unanimously. 
 1. Current Scoring Modifications from :
    1. Passing Touchdowns - 6 Points
-   1. Recoptions - 0.5 Points
-   1. Field Goals 40-49 Yards - 4 Points
-   1. Field Goals 50+ Yards - 5 Points
-   1. Fieled Goals Missed Any - (-1) Points
+   1. Receptions - 0.5 Points
+   1. Field Goals - 0.1 Point/yard
+   1. Field Goals Missed Any - (-2) Points
    1. Points After Attempt Missed - (-1) Points
    1. 4th Down Stops - 2 Points
    1. Three and Outs Forced - 0.25 Points
