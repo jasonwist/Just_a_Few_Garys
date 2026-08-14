@@ -47,10 +47,10 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Be respectful to the other owners, especially in trading. Do not offer stupid and insulting trades, and do not respond rudely if you don't like a trade that was offered to you. If you have an issue, please bring it to the Commissioners.
 1. Trash talk is allowed. Don’t make it personal.
 ### Section 1.08 Drinking Rules
-1. If Jameis Winston scores a rushing touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey (e.g. Jameson) must be consumed.
+1. If Jameis Winston scores a touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey (e.g. Jameson) must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
 2. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey (e.g. Gibson's Finest) must be consumed.
-3. If Gardner Minshew II scores a rushing touchdown, a can of beer must be consumed shotgun style.
+3. If Gardner Minshew II scores a touchdown, a can of beer must be consumed shotgun style.
 4. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
 5. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
 6. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
@@ -238,6 +238,8 @@ Player Scenarios
 1. 2021 - Keg Buyout - Remi D
 1. 2022 - Keg Buyout - Tyler B
 1. 2023 - Keg Buyout - Matthew McD
+1. 2024 - Keg Buyout - Chris R
+1. 2025 - Keg Buyout - Jason W
 ### Section 7.03 Punishment Buyout
 1. The loser can buy out of their punishment.
 1. The loser must purchase a keg of beer.
