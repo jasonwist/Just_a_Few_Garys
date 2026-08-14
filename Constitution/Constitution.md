@@ -173,12 +173,33 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 * Regression Factor: 50%.
 * Fixed Increase: $5.
 * All values will be rounded up if 0.5 or greater.
-Keeper Formula: Keeper Value = [(Original Draft Price + Projected Value) * Regression Factor] + Fixed Increase
-e.g. Player X was drafted for $60. Player X is projected to be worth $58 in the upcoming season. $64 = [($60 + $58) * .50] + $5
-e.g. Player Y was an undrafted free agent. Player Y is projected to be worth $46 in the upcoming season. $29 = [($1 + $46) * .50] + $5
-e.g. Player Z was drafted for $17. Player Z is projected to be worth $50 in the upcoming season. $39 = [($17 + $50) * .50] + $5
-e.g. Player A was drafted for $2, dropped and picked up by another team. Player A is projected to be worth $3 in the upcoming season. $8 = [($2 + $3) * .50] + $5
-e.g. Player B was drafted for $21, then traded. Player B is projected to be worth $28 in the upcoming season. $30 = [($21 + $28) * .50] + $5
+
+#### Keeper Value Formula
+The keeper value is calculated using: 
+Keeper Value=[(Original Draft Price+Projected Value)×0.50]+$5
+
+Example Calculations
+Player Scenarios
+1. High-Value Draft Pick
+   * Original Draft: $60
+   * Projected Value: $58
+   * Calculation: ($60 + $58) \times 0.50] + $5 = $64
+1. Undrafted Free Agent
+   * Original Draft: $1
+   * Projected Value: $46
+   * Calculation: ($1 + $46) \times 0.50] + $5 = $29
+2. Mid-Range Draft Pick
+   * Original Draft: $17
+   * Projected Value: $50
+   * Calculation: ($17 + $50) \times 0.50] + $5 = $39
+3. Waiver Wire Pickup
+   * Original Draft: $2
+   * Projected Value: $3
+   * Calculation: ($2 + $3) \times 0.50] + $5 = $8
+4. Traded Player
+   * Original Draft: $21
+   * Projected Value: $28
+   * Calculation: ($21 + $28) \times 0.50] + $5 = $30
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
