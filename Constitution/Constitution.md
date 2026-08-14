@@ -49,20 +49,20 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ### Section 1.08 Drinking Rules
 1. If Jameis Winston scores a touchdown or Jameson Williams scores a touchdown, a shot of Irish Whiskey (e.g. Jameson) must be consumed.
    1. The shot must be consumed on it's own and not mixed with anything else.
-2. If Antonio Gibson scores a touchdown, a shot of, or drink containing whiskey (e.g. Gibson's Finest) must be consumed.
-3. If Gardner Minshew II scores a touchdown, a can of beer must be consumed shotgun style.
-4. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
-5. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
-6. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
+1. If George Pickens scores a touchdown, a pickleback or 'whickle' must be consumed: a shot of whiskey chased by a shot of pickle brine.
+2. If Gardner Minshew II scores a touchdown, a can of beer must be consumed shotgun style.
+1. If Mark Andrews scores a touchdown, a shot of, or drink containing bourbon (e.g. Maker's Mark) must be consumed.
+1. If CeeDee Lamb scores a touchdown, a shot of, or drink containing rum (e.g. Lamb's Rum) must be consumed.
+1. In the months of November and December, for every starter on your team that scores 0, a drink of eggnog must be consumed.
 ### Secion 1.09 Drinking specifications
    1. We will be following the spirit of the law rather than obeying the letter of the law.
-   2. To obey the letter of the law is to follow the literal reading of the words of the law, whereas following the spirit of the law is to follow the intention of why the law was enforced.
-   3. The drink must be consumed before midnight Tuesday.
-   4. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
-   5. Failure to do so will result in not being able to start a kicker the following week.
-   6. Extra time will be given on a case by case basis decided by the Commissioners.
-   7. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
-   8. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment.
+   1. To obey the letter of the law is to follow the literal reading of the words of the law, whereas following the spirit of the law is to follow the intention of why the law was enforced.
+   1. The drink must be consumed before midnight Tuesday.
+   1. The owner must provide proof of drinking to Commissioners, i.e., posted in the group chat before midnight Tuesday.
+   1. Failure to do so will result in not being able to start a kicker the following week.
+   1. Extra time will be given on a case by case basis decided by the Commissioners.
+   1. Cannot submit photos ahead of time or consume more than the required amount in order to _bank_ drinks. 
+   1. A _shot_ is considered to be at least 1 US fl oz (approximately 30 ml) or be advertised as a _shot_ by a drinking establishment.
 ### Section 1.10 tl;dr 
 1. Don’t be a dink.
 ### Section 1.11 Rules For Rule Breakers
@@ -91,10 +91,9 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 1. Scoring will be decided by the Commissioners prior to draft day and will be posted on the League Settings page. Any suggestions to the Rules and scoring can be brought up at the draft and voted on by the league. Commissioners do have the power to overrule, but they (Commissioners) must vote unanimously. 
 1. Current Scoring Modifications from :
    1. Passing Touchdowns - 6 Points
-   1. Recoptions - 0.5 Points
-   1. Field Goals 40-49 Yards - 4 Points
-   1. Field Goals 50+ Yards - 5 Points
-   1. Fieled Goals Missed Any - (-1) Points
+   1. Receptions - 0.5 Points
+   1. Field Goals - 0.1 Point/yard
+   1. Field Goals Missed Any - (-2) Points
    1. Points After Attempt Missed - (-1) Points
    1. 4th Down Stops - 2 Points
    1. Three and Outs Forced - 0.25 Points
@@ -163,43 +162,41 @@ We the people of The Just a Few Garys Fantasy Football League, in order to ensur
 ###  Section 4.03 Keeper League
 1. This is a keeper league.
 1. Each manager may keep up to 2 players.
+1. Players may only be kept for 2 years.
 1. Original Draft Price is determined by Yahoo's Player Salary column displaying the final rosters for last season.
 1. Free Agent pick ups listed as '-' will be assigned a value of $1.
 1. Players obtained through trades or waivers keep their original draft value.
 1. Keeper deadline will be the Monday of the week of the draft.
 ###  Section 4.04 Keeper Formula
-* Original Draft Price: Determined by Section 4.03.
-* Projected Value: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
+* Original Draft Salary: Determined by Section 4.03.
+* Projected Salary: Determined by Yahoo Projected Salary. Will be taken on the Monday of the week of the draft.
 * Regression Factor: 50%.
-* Fixed Increase: $5.
 * All values will be rounded up if 0.5 or greater.
 
 #### Keeper Value Formula
 The keeper value is calculated using: 
-Keeper Value=[(Original Draft Price+Projected Value)×0.50]+$5
+Keeper Salary=(Last Year's Salary + Projected Salary)/2
 
 Example Calculations
 Player Scenarios
-1. High-Value Draft Pick
-   * Original Draft: $60
-   * Projected Value: $58
-   * Calculation: ($60 + $58) \times 0.50] + $5 = $64
+1. Drafted Player
+   * Last Year's Draft Salary: $60
+   * Yahoo Projected Salary for upcoming draft: $58
+   * Calculation: ($60 + $58)/2 = $59
 1. Undrafted Free Agent
-   * Original Draft: $1
-   * Projected Value: $46
-   * Calculation: ($1 + $46) \times 0.50] + $5 = $29
-2. Mid-Range Draft Pick
-   * Original Draft: $17
-   * Projected Value: $50
-   * Calculation: ($17 + $50) \times 0.50] + $5 = $39
-3. Waiver Wire Pickup
-   * Original Draft: $2
-   * Projected Value: $3
-   * Calculation: ($2 + $3) \times 0.50] + $5 = $8
-4. Traded Player
-   * Original Draft: $21
-   * Projected Value: $28
-   * Calculation: ($21 + $28) \times 0.50] + $5 = $30
+   * Last Year's Draft Salary: Undrafted
+   * Yahoo Projected Salary for upcoming draft: $42
+   * Calculation: ($1 + $46)/2 = $22
+1. Traded Player
+   * Last Year's Draft or Salary: $21
+   * Yahoo Projected Salary for upcoming draft: $28
+   * Calculation: ($21 + $28)/2 = $25
+   * Last year to be kept if they were not drafted.
+1. Keeper from Previous Year
+   * Last Year's Salary: $21
+   * Yahoo Projected Salary for upcoming draft: $28
+   * Calculation: ($21 + $28)/2 = $30
+   * Last year to be kept.
 ### Section 4.05 Drafting Penalties
 1. If a manager name drops a player or team, prior to them being drafted, the manager must take a shot.
 
@@ -344,3 +341,9 @@ Player Scenarios
 * Removed Kahlúa for Tua Tagovailoa - Suggested by Jason W
 * Relaxed drinking rules - Suggested by Jason W
 * Added keeper rules - Suggested by Chris B
+#### 2026 Amendments:
+* Modified kicker rules - Suggested by Jason W
+* Removed Antonio Gibson rule - Suggested by Jason W
+* Added George Pickens rule - Suggested by Jason W
+* Modified keeper formula - Suggested by Chris F
+* Added keeper length rule - Suggested by Chris F
